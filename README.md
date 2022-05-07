@@ -15,7 +15,7 @@ Convert the saved BGR image to RGB using cvtColor().
 ### Step3
 By using the following filters for image smoothing:filter2D(src, ddepth, kernel), Box filter,Weighted Average filter,GaussianBlur(src, ksize, sigmaX[, dst[, sigmaY[, borderType]]]), medianBlur(src, ksize),and for image sharpening:Laplacian Kernel,Laplacian Operator.
 
-## Step4
+### Step4
 Apply the filters using cv2.filter2D() for each respective filters.
 
 ### Step5
