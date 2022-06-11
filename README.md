@@ -22,10 +22,10 @@ Apply the filters using cv2.filter2D() for each respective filters.
 Plot the images of the original one and the filtered one using plt.figure() and cv2.imshow().
 
 ## Program:
-### Developed By   :
-### Register Number:
-</br>
-
+```
+Developed By:MANOJ CHOUDHARY V
+Register Number:212221240025
+```
 ### 1. Smoothing Filters
 
 i) Using Averaging Filter
